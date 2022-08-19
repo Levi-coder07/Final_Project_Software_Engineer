@@ -1,10 +1,14 @@
 ## Practicas de codigo legible
  ## Indexacion correcta :
  Es una buena idea manejar una indexacion consistente en nuestro codigo para un leido legible.
+ ![image](https://user-images.githubusercontent.com/82822546/185642498-ee1ea7b5-ef2c-403b-bf92-23cccd9f6540.png)
+
  ## Code grouping :
  Siempre es bueno separar las funciones por almenos 2 espacios de otras funciones que no tengan que ver con la anterior
  ## Commenting and doccumentation :
  Se debe evitar comentar cosas demasiado obvias y tratar de explicar el codigo de manecra correcta 
+ ![image](https://user-images.githubusercontent.com/82822546/185642515-f6b57a82-b5f6-41b1-8642-c9cdf42989d1.png)
+
  ## Avoid Deep Nesting 
  Se debe evitar hacer saltos de linea e indexacion para cada for / if esto crearia un codigo muy pesado
  ## Consistent Temporary Names : 
