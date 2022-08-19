@@ -13,6 +13,12 @@
 
  ## Capitalize SQL Special Words
  Debemos capitalizar las palabras pertenecientes a SQL para idetnficar mejor nuestros parametros y columnas
+ ![image](https://user-images.githubusercontent.com/82822546/185644090-3913b176-d304-4cd3-b0a5-a3fae29a77ae.png)
+
+
+![image](https://user-images.githubusercontent.com/82822546/185644138-77446b9f-7056-4ea9-a241-b15473b48eef.png)
+![image](https://user-images.githubusercontent.com/82822546/185644192-c15c467e-96bd-479d-a162-2e97474c6a99.png)
+
  ## Consistent Temporary Names : 
  Es bueno mantener nombres largos para variables que usaremos pero esto no aplica para las variables temporales que deben ser de los menores caracteres que se pueda
  ![image](https://user-images.githubusercontent.com/82822546/185634100-ceb4c2f8-bc4c-4e6b-bc79-18df569cc32a.png)
