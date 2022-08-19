@@ -12,7 +12,7 @@
  ![image](https://user-images.githubusercontent.com/82822546/185642515-f6b57a82-b5f6-41b1-8642-c9cdf42989d1.png)
 
  ## Capitalize SQL Special Words
- Debemos capitalizar las palabras pertenecientes a SQL para idetnficar mejor nuestros parametros y columnas
+ Debemos capitalizar las palabras pertenecientes a SQL para identificar mejor nuestros parametros y columnas
  ![image](https://user-images.githubusercontent.com/82822546/185644090-3913b176-d304-4cd3-b0a5-a3fae29a77ae.png)
 
 
