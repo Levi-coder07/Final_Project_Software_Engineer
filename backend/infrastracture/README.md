@@ -5,6 +5,8 @@
 
  ## Code grouping :
  Siempre es bueno separar las funciones por almenos 2 espacios de otras funciones que no tengan que ver con la anterior
+ ![image](https://user-images.githubusercontent.com/82822546/185642592-e7b623f9-6d00-4495-a145-9a7a8fbf4c74.png)
+
  ## Commenting and doccumentation :
  Se debe evitar comentar cosas demasiado obvias y tratar de explicar el codigo de manecra correcta 
  ![image](https://user-images.githubusercontent.com/82822546/185642515-f6b57a82-b5f6-41b1-8642-c9cdf42989d1.png)
